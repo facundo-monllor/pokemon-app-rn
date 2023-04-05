@@ -34,7 +34,7 @@ export const FadeInImage = ({ uri, style = {} } : Props) => {
                     <ActivityIndicator 
                         style={{ position: 'absolute' }} 
                         color="grey"
-                        size={ 30 }
+                        size={ 31 }
                     />
             }
 
